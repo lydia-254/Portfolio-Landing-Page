@@ -19,6 +19,6 @@ https://github.com/lydia-254/Portfolio-Landing-Page.git
 1. CSS
 1. Git
 ### Live Site
-View [Live] (https://github.com/lydia-254/Portfolio-Landing-Page.git)
+View [Live] (https://lydia-254.github.io/Portfolio-Landing-Page/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence.
